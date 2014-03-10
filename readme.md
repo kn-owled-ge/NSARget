@@ -1,0 +1,1 @@
+This project contains the code required to download and parse all N-SAR forms from the SEC's EDGAR depository. The Python code is straightforward, some of the execution requires wget, and the Stata .ado file deals with matching N-SAR and CRSP observations.
